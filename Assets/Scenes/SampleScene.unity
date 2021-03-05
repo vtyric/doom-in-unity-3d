@@ -421,6 +421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 748334159}
   - component: {fileID: 748334158}
+  - component: {fileID: 748334160}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -462,6 +463,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &748334160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 748334157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b83a91fd32bec3442865bd4e44259f14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 18
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -558,7 +572,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54c131cdb2f1f38428359c61eb8ff728, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mouseSensitivity: 200
+  mouseSensitivity: 400
   playerBody: {fileID: 748334159}
 --- !u!1001 &1763383505
 PrefabInstance:
