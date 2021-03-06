@@ -2,7 +2,7 @@
 
 Учебный проект по созданию игры на Unity 3D
 
-[![GitHub issues](https://img.shields.io/github/issues/sarseniy/doom-in-unity-3d)](https://github.com/sarseniy/doom-in-unity-3d/issues) [![GitHub forks](https://img.shields.io/github/forks/sarseniy/doom-in-unity-3d)](https://github.com/sarseniy/doom-in-unity-3d/network) [![GitHub stars](https://img.shields.io/github/stars/sarseniy/doom-in-unity-3d)](https://github.com/sarseniy/doom-in-unity-3d/stargazers) [![GitHub license](https://img.shields.io/github/license/sarseniy/doom-in-unity-3d)](https://github.com/sarseniy/doom-in-unity-3d)
+[![GitHub issues](https://img.shields.io/github/issues/vtyric/doom-in-unity-3d)](https://github.com/vtyric/doom-in-unity-3d/issues) [![GitHub forks](https://img.shields.io/github/forks/vtyric/doom-in-unity-3d)](https://github.com/vtyric/doom-in-unity-3d/network) [![GitHub stars](https://img.shields.io/github/stars/vtyric/doom-in-unity-3d)](https://github.com/vtyric/doom-in-unity-3d/stargazers) [![GitHub license](https://img.shields.io/github/license/vtyric/doom-in-unity-3d)](https://github.com/vtyric/doom-in-unity-3d)
 
 ## Описание игры
 
