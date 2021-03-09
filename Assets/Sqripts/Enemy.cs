@@ -26,7 +26,8 @@ public class Enemy : MonoBehaviour
 
     void Update()
     {
-        playerInSightRange = Physics.CheckSphere(transform.position, sightRange, whatIsPlayer);
+        if (Physics.CheckSphere(transform.position, sightRange, whatIsPlayer))
+            playerInSightRange = true;
 
         if (!playerInSightRange)
             Patrolling();
