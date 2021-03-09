@@ -39,7 +39,8 @@ public class Enemy : MonoBehaviour
     {
         if (!walkPointSet)
             SearchWalkPoint();
-        else
+
+        if (walkPointSet)
             enemy.SetDestination(walkPoint);
 
         walkPointSet = (transform.position - walkPoint).magnitude >= 1f;
