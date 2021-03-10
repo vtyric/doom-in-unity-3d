@@ -904,7 +904,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 100
-  sightRange: 1
+  sightRange: 20
   walkPointRange: 5
   whatIsPlayer:
     serializedVersion: 2
@@ -1120,7 +1120,7 @@ GameObject:
   - component: {fileID: 710423163}
   - component: {fileID: 710423162}
   - component: {fileID: 710423164}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cylinder
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -1388,7 +1388,7 @@ GameObject:
   - component: {fileID: 748334159}
   - component: {fileID: 748334158}
   - component: {fileID: 748334160}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -1537,7 +1537,7 @@ GameObject:
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Main Camera
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -1811,7 +1811,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4318044428380430277, guid: 73f7c2be360bf0042b1fff8113e8c2d9, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 73f7c2be360bf0042b1fff8113e8c2d9, type: 3}
       propertyPath: m_Name
@@ -1819,7 +1819,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 73f7c2be360bf0042b1fff8113e8c2d9, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4682344322903114871, guid: 73f7c2be360bf0042b1fff8113e8c2d9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2314,7 +2314,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1317171200}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GroundCheck
   m_TagString: Player
   m_Icon: {fileID: 0}
